@@ -6,10 +6,6 @@ This project demonstrates how to create a simple CRUD app with express and a rel
 
 You can download or clone repository
 
-### Prerequisites
-
-No dependencies only core nodejs modules 
-
 ### Installing
 
 Clone or download the repository and open with any code editor of your choice\
